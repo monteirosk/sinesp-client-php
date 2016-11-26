@@ -10,13 +10,7 @@ Nota: Implementar a validação
 
 ## Contribua
 
-Gosto disso? Você pode me comprar uma cerveja.
+Gosto disso? 
+- [Você pode me comprar uma cerveja](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZDN3JALJWZEP2)
 
-<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
-<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-<input type="hidden" name="currency" value="BRL" />
-<input type="hidden" name="receiverEmail" value="monteiro.william4@gmail.com" />
-<input type="hidden" name="iot" value="button" />
-<input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-azul-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-</form>
 
